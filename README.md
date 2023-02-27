@@ -4,5 +4,4 @@ In this small project I've applied the knowledge that I learned in [Kaggle's Com
 Notes:
 <br>
 - The current implementation's accuracy range is [98.8%, 99.05%]
-<br>
 - Improvements require further analysis on ambiguous data
